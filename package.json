@@ -3,4 +3,5 @@
     "@tailwindcss/vite": "^4.0.9",
     "tailwindcss": "^4.0.9"
   }
+  
 }
